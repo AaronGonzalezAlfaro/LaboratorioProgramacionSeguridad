@@ -1,0 +1,7 @@
+------EJECUTABLE DE PYTHON-------
+Este es un programde cifradod de
+cesar.
+En la carpeta "dist" se encuentra
+se encuentra el ejecutable
+
+***Este Ejecutable Fue Creado en Windows***
