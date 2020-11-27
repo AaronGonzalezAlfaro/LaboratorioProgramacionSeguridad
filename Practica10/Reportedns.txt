@@ -1,0 +1,269 @@
+Configuración IP de Windows
+
+    crl3.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : crl3.digicert.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 207
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 207
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 29466
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : activate.adobe.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 29466
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : practivate.adobe.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 29466
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : lmlicenses.wip4.adobe.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 29466
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : lm.licenses.adobe.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 29466
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : na1r.services.adobe.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 29466
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : hlrcv.stage.adobe.com
+
+
+    config.nos-avg.cz
+    ----------------------------------------
+    Nombre de registro  . : config.nos-avg.cz
+    Tipo de registro  . . : 16
+    Período de vida . . . : 26313
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    www.reimageplus.com
+    ----------------------------------------
+    Nombre de registro  . : www.reimageplus.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 111
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : reimageplus.com
+
+
+    Nombre de registro  . : reimageplus.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 161.47.7.14
+
+
+    www.reimageplus.com
+    ----------------------------------------
+    Nombre de registro  . : www.reimageplus.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 111
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : reimageplus.com
+
+
+    Nombre de registro  . : reimageplus.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 161.47.7.14
+
+
+    lm.licenses.adobe.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    lm.licenses.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : lm.licenses.adobe.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29464
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    activate.adobe.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    activate.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : activate.adobe.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29464
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    na1r.services.adobe.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    na1r.services.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : na1r.services.adobe.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29464
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    r5---sn-0opoxu-hutey.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-0opoxu-hutey.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 87
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-0opoxu-hutey.gvt1.com
+
+
+    Nombre de registro  . : r5.sn-0opoxu-hutey.gvt1.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 87
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.16
+
+
+    hlrcv.stage.adobe.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    hlrcv.stage.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : hlrcv.stage.adobe.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    g.static.mega.co.nz
+    ----------------------------------------
+    Nombre de registro  . : g.static.mega.co.nz
+    Tipo de registro  . . : 5
+    Período de vida . . . : 213
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : eu.static.mega.co.nz
+
+
+    Nombre de registro  . : eu.static.mega.co.nz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 213
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 66.203.127.11
+
+
+    Nombre de registro  . : eu.static.mega.co.nz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 213
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 89.44.169.134
+
+
+    Nombre de registro  . : eu.static.mega.co.nz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 213
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 89.44.169.132
+
+
+    Nombre de registro  . : eu.static.mega.co.nz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 213
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 66.203.127.13
+
+
+    Nombre de registro  . : eu.static.mega.co.nz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 213
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 66.203.124.37
+
+
+    lmlicenses.wip4.adobe.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    lmlicenses.wip4.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : lmlicenses.wip4.adobe.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    practivate.adobe.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    practivate.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : practivate.adobe.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 29463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
